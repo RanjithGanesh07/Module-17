@@ -29,7 +29,7 @@ To write a Python program to **print DFS traversal** from a given source vertex.
 **Step 8**: End the program.
 
 ## PYTHON PROGRAM
-
+```
 # Python3 program to print DFS traversal
 # from a given graph
 from collections import defaultdict
